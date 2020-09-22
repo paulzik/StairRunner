@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: b9030bc70e7b991439d4932cc386e96c
+timeCreated: 1537392058
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base1
+    100002: Base2
+    100004: Cabin
+    100006: Circle003
+    100008: Circle003 1
+    100010: Circle005
+    100012: Circle005 1
+    100014: Connector
+    100016: Front
+    100018: Line002
+    100020: Line002 1
+    100022: Line003
+    100024: Line003 1
+    100026: MainBody
+    100028: Smoker
+    100030: //RootNode
+    100032: van_up
+    100034: Vehicle
+    100036: Vehicle3
+    100038: Vehicle8
+    100040: Vehicle9
+    100042: WheelBase
+    100044: Wing2
+    100046: Wing3
+    400000: Base1
+    400002: Base2
+    400004: Cabin
+    400006: Circle003
+    400008: Circle003 1
+    400010: Circle005
+    400012: Circle005 1
+    400014: Connector
+    400016: Front
+    400018: Line002
+    400020: Line002 1
+    400022: Line003
+    400024: Line003 1
+    400026: MainBody
+    400028: Smoker
+    400030: //RootNode
+    400032: van_up
+    400034: Vehicle
+    400036: Vehicle3
+    400038: Vehicle8
+    400040: Vehicle9
+    400042: WheelBase
+    400044: Wing2
+    400046: Wing3
+    2300000: Base1
+    2300002: Base2
+    2300004: Cabin
+    2300006: Circle003
+    2300008: Circle003 1
+    2300010: Circle005
+    2300012: Circle005 1
+    2300014: Connector
+    2300016: Front
+    2300018: Line002
+    2300020: Line002 1
+    2300022: Line003
+    2300024: Line003 1
+    2300026: MainBody
+    2300028: Smoker
+    2300030: van_up
+    2300032: WheelBase
+    2300034: Wing2
+    2300036: Wing3
+    3300000: Base1
+    3300002: Base2
+    3300004: Cabin
+    3300006: Circle003
+    3300008: Circle003 1
+    3300010: Circle005
+    3300012: Circle005 1
+    3300014: Connector
+    3300016: Front
+    3300018: Line002
+    3300020: Line002 1
+    3300022: Line003
+    3300024: Line003 1
+    3300026: MainBody
+    3300028: Smoker
+    3300030: van_up
+    3300032: WheelBase
+    3300034: Wing2
+    3300036: Wing3
+    4300000: van_up
+    4300002: Line002
+    4300004: Circle003
+    4300006: Line003
+    4300008: Circle005
+    4300010: Front
+    4300012: MainBody
+    4300014: Base2
+    4300016: Base1
+    4300018: WheelBase
+    4300020: Connector
+    4300022: Cabin
+    4300024: Smoker
+    4300026: Wing2
+    4300028: Wing3
+    4300030: Line002
+    4300032: Circle003
+    4300034: Line003
+    4300036: Circle005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: cd7e8f6e95ee6bb42a11f4b10d13a72d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

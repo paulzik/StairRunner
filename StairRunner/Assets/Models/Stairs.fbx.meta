@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: aeb591981b6ab9844850b383b103a291
+timeCreated: 1509886377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: StepElement_1
+    100004: StepElement_2
+    100006: StepElement_3
+    100008: StepElement_4
+    100010: StepElement_5
+    100012: StepElement_6
+    100014: StepElement_7
+    100016: StepElement_8
+    100018: StepElement_9
+    400000: //RootNode
+    400002: StepElement_1
+    400004: StepElement_2
+    400006: StepElement_3
+    400008: StepElement_4
+    400010: StepElement_5
+    400012: StepElement_6
+    400014: StepElement_7
+    400016: StepElement_8
+    400018: StepElement_9
+    2300000: StepElement_1
+    2300002: StepElement_2
+    2300004: StepElement_3
+    2300006: StepElement_4
+    2300008: StepElement_5
+    2300010: StepElement_6
+    2300012: StepElement_7
+    2300014: StepElement_8
+    2300016: StepElement_9
+    3300000: StepElement_1
+    3300002: StepElement_2
+    3300004: StepElement_3
+    3300006: StepElement_4
+    3300008: StepElement_5
+    3300010: StepElement_6
+    3300012: StepElement_7
+    3300014: StepElement_8
+    3300016: StepElement_9
+    4300000: StepElement_9
+    4300002: StepElement_8
+    4300004: StepElement_7
+    4300006: StepElement_6
+    4300008: StepElement_5
+    4300010: StepElement_4
+    4300012: StepElement_3
+    4300014: StepElement_2
+    4300016: StepElement_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: cd7e8f6e95ee6bb42a11f4b10d13a72d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
